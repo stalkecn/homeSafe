@@ -55,7 +55,7 @@ body {
     width:325px;                   /* text area width */
     text-align:center;
     padding:180px 0px 0px 0px;     /* image height is 200px (bottom 20px are overlapped with text) */
-    margin:-115px 0px 0px -160px;  /* offset vertical: half of image height and text area height */
+    margin:-115px 0px 0px -140px;  /* offset vertical: half of image height and text area height */
                                    /* offset horizontal: half of text area width */
 }
 
@@ -81,11 +81,12 @@ body {
 }
 
 .event {
+    text-align: center;
     border-radius:4px;n        
     -webkit-border-radius:4px;
     color:#FFFFFF;
     font-size:12px;
-    margin:-40px 30px;
+    margin:-20px 30px;
     padding:2px 0px;
 }
 
@@ -115,3 +116,67 @@ body {
     animation:fade 3000ms infinite;
     -webkit-animation:fade 3000ms infinite;
 }
+#button {
+    text-align:center;
+}
+#kidinput{
+        font-size: 30px;
+        font-weight:bold;
+        text-align:center;
+        text-shadow: 2px 2px white;
+        background: black;
+}
+#message{
+        font-size: 30px;
+        font-weight:bold;
+        text-align:center;
+        text-shadow: 2px 2px white;
+        background: black;
+        margin-top: 50px;
+}
+#connectcontacts{
+        font-size: 30px;
+        font-weight:bold;
+        text-align:center;
+        text-shadow: 2px 2px white;
+        background: black;
+        margin-top: 50px;
+}
+#homescreen{
+        font-size: 30px;
+        font-weight:bold;
+        text-align:center;
+        text-shadow: 2px 2px white;
+        background: black;
+        margin-top: 50px;
+}
+#kid{
+        font-size: 30px;
+        font-weight:bold;
+        text-align:center;
+        text-shadow: 2px 2px white;
+    }
+#homescreenkd{
+        font-size: 10px;
+        font-weight:bold;
+        text-align:center;
+        text-shadow: 2px 2px white;
+        background: black;
+        margin-top: 320px;
+}
+#homescreenm{
+        font-size: 10px;
+        font-weight:bold;
+        text-align:center;
+        text-shadow: 2px 2px white;
+        background: black;
+        margin-top: 320px;
+}
+#homescreencc{font-size: 10px;
+        font-weight:bold;
+        text-align:center;
+        text-shadow: 2px 2px white;
+        background: black;
+        margin-top: 280px;
+    }
+        
