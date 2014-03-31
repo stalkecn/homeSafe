@@ -51,11 +51,11 @@ body {
     position:absolute;             /* position in the center of the screen */
     left:50%;
     top:50%;
-    height:50px;                   /* text area height */
-    width:225px;                   /* text area width */
+    height:150px;                   /* text area height */
+    width:325px;                   /* text area width */
     text-align:center;
     padding:180px 0px 0px 0px;     /* image height is 200px (bottom 20px are overlapped with text) */
-    margin:-115px 0px 0px -112px;  /* offset vertical: half of image height and text area height */
+    margin:-115px 0px 0px -160px;  /* offset vertical: half of image height and text area height */
                                    /* offset horizontal: half of text area width */
 }
 
@@ -69,13 +69,15 @@ body {
     }
 }
 
-h1 {
-    font-size:24px;
-    font-weight:normal;
-    margin:0px;
+#homeSafe {
+    font-size:30px;
+    font-weight:bold;
+    margin:20px;
     overflow:visible;
     padding:0px;
     text-align:center;
+    text-shadow: 2px 2px white;
+
 }
 
 .event {
