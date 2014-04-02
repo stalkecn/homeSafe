@@ -170,7 +170,6 @@ body {
         text-align:center;
         text-shadow: 2px 2px white;
         color:black;
-        margin-top: 320px;
 }
 #homescreenm{
         font-size: 10px;
@@ -178,13 +177,17 @@ body {
         text-align:center;
         text-shadow: 2px 2px white;
         color:black;
-        margin-top: 320px;
 }
 #homescreencc{font-size: 10px;
         font-weight:bold;
         text-align:center;
         text-shadow: 2px 2px white;
         color:black;
-        margin-top: 280px;
     }
+#addkid{
+    font-size: 12px;
+        font-weight:bold;
+        text-align:center;
+        color:blue;
+}
         
