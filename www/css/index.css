@@ -124,31 +124,39 @@ body {
         font-weight:bold;
         text-align:center;
         text-shadow: 2px 2px white;
+        color:blue;
         background: black;
+        width: 200px;
+        text-decoration: none;
+        margin-top: 20px;
 }
 #message{
         font-size: 30px;
         font-weight:bold;
         text-align:center;
         text-shadow: 2px 2px white;
+        color:blue;
         background: black;
-        margin-top: 50px;
+        margin-top: 65px;
+        width: 200px;
 }
 #connectcontacts{
         font-size: 30px;
         font-weight:bold;
         text-align:center;
         text-shadow: 2px 2px white;
+        color:blue;
         background: black;
-        margin-top: 50px;
+        margin-top: 65px;
+        width: 200px;
 }
 #homescreen{
-        font-size: 30px;
+        font-size: 10px;
         font-weight:bold;
         text-align:center;
         text-shadow: 2px 2px white;
-        background: black;
-        margin-top: 50px;
+        color:black;
+        margin-top:60px;
 }
 #kid{
         font-size: 30px;
@@ -161,7 +169,7 @@ body {
         font-weight:bold;
         text-align:center;
         text-shadow: 2px 2px white;
-        background: black;
+        color:black;
         margin-top: 320px;
 }
 #homescreenm{
@@ -169,14 +177,14 @@ body {
         font-weight:bold;
         text-align:center;
         text-shadow: 2px 2px white;
-        background: black;
+        color:black;
         margin-top: 320px;
 }
 #homescreencc{font-size: 10px;
         font-weight:bold;
         text-align:center;
         text-shadow: 2px 2px white;
-        background: black;
+        color:black;
         margin-top: 280px;
     }
         
